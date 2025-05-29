@@ -1,0 +1,14 @@
+const name="Farhan";
+console.log(name);
+const address="Dhaka";
+console.log(address);
+const friend="Tammam & Rowaza";
+console.log(friend);
+const fan="No one";
+console.log(fan);
+const movieOfTheYear="Pokemon";
+console.log(movieOfTheYear);
+const hobby="Learning";
+console.log(hobby);
+const color="Yellow";
+console.log(color);

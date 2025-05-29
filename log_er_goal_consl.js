@@ -1,0 +1,12 @@
+const age=21;
+console.log(age);
+const booksToRead=20;
+console.log(booksToRead);
+const wakeUpTime=6;
+console.log(wakeUpTime);
+const borrow=0;
+console.log(borrow);
+const most_goals_by_my_team=7;
+console.log(most_goals_by_my_team);
+const pillow=4;
+console.log(pillow);
